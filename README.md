@@ -7,6 +7,11 @@ This repository contains assignments and projects for the COMP125 Client-Side We
 
 ## Assignments
 - [Assignment 1](./Assignments/Assignment1): Dynamic Multiplication Table
+- [Link](https://aikoxb.github.io/COMP125_ClientSideWebDev/A1_MultiplicationTable/MultTable.html)
+
+
 - [Assignment 2](./Assignments/Assignment2): Interactive Slideshow
 - [Assignment 2](./Assignments/Assignment2): Bug Smasher Game
 - [Assignment 2](./Assignments/Assignment2): API Data
+
+
